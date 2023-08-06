@@ -94,9 +94,8 @@ Specify the license under which the Data Collector app is distributed.
 
 ## Contact
 
-If you have any questions or feedback, contact our team at contact@datacollectorapp.com.
+If you have any questions or feedback, contact me at juanieltupa@gmail.com.
 
 ## Acknowledgments
 
 - Acknowledge any third-party libraries or resources used in the app.
-- 
