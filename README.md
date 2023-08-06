@@ -53,11 +53,11 @@ The Data Collector app is designed to facilitate data collection in various muni
   - Number of students benefiting from displacement, victims, or belonging to ethnic groups.
 - Organize statistics by program, with specific indicators for each program.
 
-Technologies Used
+## Technologies Used
 
 The Data Collector app is built using a variety of modern technologies and frameworks to ensure a robust and efficient user experience. The key technologies used in the app include:
 
-Kotlin: The primary programming language used for Android app development, known for its conciseness and safety features.
+Kotlin:  The primary programming language used for Android app development, known for its conciseness and safety features.
 Jetpack Compose: The modern UI toolkit from Google, which enables a declarative and efficient way to build UI components.
 MVVM Architecture: The Model-View-ViewModel architectural pattern, separating data logic, UI representation, and user interactions.
 Dagger Hilt 2: A dependency injection framework for managing app dependencies and promoting code modularity.
