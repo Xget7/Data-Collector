@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889706737273",
+    "project_id": "supervisor-4836f",
+    "storage_bucket": "supervisor-4836f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889706737273:android:6293e792e87de08958eea8",
+        "android_client_info": {
+          "package_name": "com.sublimetech.supervisor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889706737273-acrnnggm97davfbeia6gc7q9lkm0a666.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAf1i9uYXQ3-UTlKQ4bXLfImqADUKWgMSk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889706737273-acrnnggm97davfbeia6gc7q9lkm0a666.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
